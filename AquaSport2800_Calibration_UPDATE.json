@@ -1,0 +1,95 @@
+{
+    "saved_seq": 1000,
+    "biased_rotation_angle": {
+        "pitch": 1.6, 
+        "roll": -1.85,
+        "yaw": 0.0
+    },
+    "boat_type": {
+        "custom_breadth": 3.0,
+        "custom_length": 9.5
+    },
+    "extrinsic_parameter": {
+        "cameras": [
+            {
+                "camera_position": "1",
+                "location": {
+                    "translation_x": 4.52,
+                    "translation_y": 0,
+                    "translation_z": -1.35
+                },
+                "rotation": {
+                    "pitch": 91.9,
+                    "roll": -3.7,
+                    "yaw": -5.0
+                }
+            },
+            {
+                "camera_position": "2",
+                "location": {
+                    "translation_x": 3.15,
+                    "translation_y": 1.06,
+                    "translation_z": -1.16
+                },
+                "rotation": {
+                    "pitch": 40.7,
+                    "roll": 1.9,
+                    "yaw": -16.7
+                }
+            },
+            {
+                "camera_position": "3",
+                "location": {
+                    "translation_x": 3.15,
+                    "translation_y": -1.06,
+                    "translation_z": -1.16
+                },
+                "rotation": {
+                    "pitch": 39.0,
+                    "roll": -0.9,
+                    "yaw": 19.7
+                }
+            },
+            {
+                "camera_position": "4",
+                "location": {
+                    "translation_x": -1.4,
+                    "translation_y": 0.8,
+                    "translation_z": -2.25
+                },
+                "rotation": {
+                    "pitch": 78.4,
+                    "roll": 3.6,
+                    "yaw": 3.3
+                }
+            },
+            {
+                "camera_position": "5",
+                "location": {
+                    "translation_x": -1.4,
+                    "translation_y": -0.8,
+                    "translation_z": -2.25
+                },
+                "rotation": {
+                    "pitch": 78.2,
+                    "roll": -3.3,
+                    "yaw": -5.0
+                }
+            },
+            {
+                "camera_position": "6",
+                "location": {
+                    "translation_x": -1.9,
+                    "translation_y": 0,
+                    "translation_z": -2.25
+                },
+                "rotation": {
+                    "pitch": 85.4,
+                    "roll": 1.9,
+                    "yaw": -3.1
+                }
+            }
+        ],
+        "camera_z_pose_offset": 0.0
+    }
+}
